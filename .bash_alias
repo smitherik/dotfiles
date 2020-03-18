@@ -1,0 +1,4 @@
+alias ls='ls --color=auto --classify'
+alias ll='ls -l'
+alias la='ls -a'
+alias lal='ls -la'
